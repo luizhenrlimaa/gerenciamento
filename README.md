@@ -1,0 +1,1 @@
+ Sistema de Gerenciamento de TCC, que foi desenvolvido como um trabalho de conclusão de curso de Informática do Instituto Federal do Norte de Minas Gerais (IFNMG).
